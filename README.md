@@ -12,3 +12,6 @@ Exploit-db publication at https://www.exploit-db.com/docs/english/13072-tactical
 
 # Having Fun with “Sensor Appliance” Proventia GX5108 & GX5008 Insecurities Part One
 Exploit-db publication at https://www.exploit-db.com/docs/english/13081-having-fun-with-proventia-gx5108-&-gx5008-insecurities.pdf
+
+# Author
+Alex Hernandez aka <em><a href="https://twitter.com/_alt3kx_" rel="nofollow">(@\_alt3kx\_)</a></em>
